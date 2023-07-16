@@ -14,7 +14,7 @@ organizations:
     url:
 
 # Short bio (displayed in user profile at end of posts)
-bio:
+bio: Hey, I am research assistant on the team, who just got my bachelor degree in Biologi/molecular biology, and will study a master in evolutionary biology. I did my bachelor thesis using bioinformitcal tools, to build a phylogenetic distirbution of Spok genes in Fusarium, and analazying the role of the genes in the genus. Currently doing a project where I learn to use SRAssembler, to assemble reads of the spok genes, that can be used for futher analyses.
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
